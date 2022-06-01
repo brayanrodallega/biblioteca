@@ -1,0 +1,9 @@
+Brayan 123 101 Brayan Rodallega 1 123456 385473 0
+Gonzal 491 102 Andres Gonzaloya 1 234567 234134 1
+Camila ert 103 Camila Granjales 1 345678 363233 0
+Marcos qwe 104 Marcos Colorados 1 789056 123123 1
+Daniel 456 201 Daniel Hineztroz 2 890123 385473 0
+Gatolo cvb 202 Carlos Murilloko 2 234123 123124 0
+Santri rty 203 Santri Santosyng 2 786781 463553 1
+Fernan 789 301 Fernan Rodriguez 3 123845 385473 1
+Tomyno 012 302 Tommyn Rowardows 3 456546 566787 0
